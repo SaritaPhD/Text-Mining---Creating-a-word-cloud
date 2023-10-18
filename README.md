@@ -1,5 +1,4 @@
-# Text-Mining-Part-1
-## Creating a word cloud
+# Text-Mining - Creating a word cloud
 - Word Clouds: A Visual Representation of Text Data
 When it comes to conveying the essence of a large body of text data quickly and effectively, word clouds are a popular choice. Word clouds are visually appealing representations that display the most frequent words in a text document using varying font sizes and colors. These captivating visualizations have a wide range of applications, from text analysis and data exploration to creative design.
 
